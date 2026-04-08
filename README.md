@@ -35,13 +35,8 @@ Developed a Power BI dashboard that provides individual views for each salespers
 * Faster decision-making
 * Easy tracking of commissions and trends
 
-## 📸 Dashboard Preview
-
-(Add screenshots here)
-
 ## Files Included
 
 * `.pbix` file
 * Screenshots
-* Sample dataset (if possible)
 
